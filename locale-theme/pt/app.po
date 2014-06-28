@@ -52,17 +52,5 @@ msgstr "[email editado]"
 msgid "[{{site_name}} contact email]"
 msgstr "[email de {{site_name}}]"
 
-
-# Custom states
-
-msgid "Authority has provided an unsatisfactory response."
-msgstr "A resposta não foi satisfatória."
-
-msgid "Unsatisfactory response."
-msgstr "Resposta não satisfatória."
-
-msgid "Authority has provided an <strong>unsatisfactory response</strong>"
-msgstr "A resposta <strong>não foi satisfatória</strong>"
-
-msgid "The response has been unsatisfactory."
-msgstr "A resposta não foi satisfatória."
+msgid "Exercise your right to know."
+msgstr "Exerce o teu direito a saber."
