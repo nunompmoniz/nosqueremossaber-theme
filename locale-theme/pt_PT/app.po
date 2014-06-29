@@ -1,0 +1,56 @@
+# Your theme's locale files will override the core locale files.  This
+# is a good place to put both translations specific to your theme, and
+# "translations" of the core English words
+
+# Temporary location for items in tuderechoasaber branch
+
+msgid "Make and browse Freedom of Information (FOI) requests"
+msgstr "Exerce o teu direito a saber. Solicita informação."
+
+msgid "Too many requests"
+msgstr "Demasiados pedidos"
+
+msgid " - Freedom of Information requests"
+msgstr " - Pedidos de Acesso a Informação"
+
+msgid " - user profile"
+msgstr " - perfil do utilizador"
+
+msgid "Freedom of Information requests made by you"
+msgstr "Pedidos de Acesso a Informação realizados por ti"
+
+msgid "Freedom of Information requests made by this person"
+msgstr "Pedidos de Acesso a Informação realizados por este utilizador"
+
+msgid "{{title}} - a Freedom of Information request to {{public_body}}"
+msgstr "{{title}} - Pedido de Acesso a Informação solicitado a {{public_body}}"
+
+msgid "show quoted sections"
+msgstr "mostrar o resto da mensagem"
+
+msgid "hide quoted sections"
+msgstr "ocultar o fim da mensagem"
+
+msgid "Clarify your FOI request - "
+msgstr "Clarifica o teu Pedido de Acesso a Informação - "
+
+msgid "{{public_body}} has asked you to explain part of your {{law_used}} request."
+msgstr "{{public_body}} pediu que clarifiques o teu Pedido de Acesso a Informação."
+
+msgid "{{law_used}} requests at {{public_body}}"
+msgstr "{{public_body}}"
+
+msgid "details"
+msgstr "Detalhes"
+
+msgid "[{{public_body}} request email]"
+msgstr "[email de {{public_body}}]"
+
+msgid "[FOI #{{request}} email]"
+msgstr "[email editado]"
+
+msgid "[{{site_name}} contact email]"
+msgstr "[email de {{site_name}}]"
+
+msgid "Exercise your right to know."
+msgstr "Exerce o teu direito a saber."
